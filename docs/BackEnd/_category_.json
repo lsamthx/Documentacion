@@ -1,0 +1,9 @@
+{
+    "label": "BackEnd",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Este apartado contiene todo lo necesario para entender el proyecto en cuestiones backend, así como sus respectivas derivaciones en rutas, controladores, servicios, entre otros🤝"
+    }
+  }
+  
